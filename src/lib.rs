@@ -14,7 +14,7 @@
 //! ```
 //!
 
-#[derive(Debug, Clone, PartialEq)]
+#[derive(Debug, Default, Clone, PartialEq)]
 /// A struct that contains both a string and a json value.
 pub struct StructuredOutput {
     pub lines: String,
