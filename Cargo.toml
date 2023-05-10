@@ -1,6 +1,6 @@
 [package]
 name = "structured-output"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "Apache-2.0"
 description = "A library for structured CLI output that can be displayed as either printed lines or JSON."
